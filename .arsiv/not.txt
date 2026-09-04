@@ -1,0 +1,5 @@
+bu dosya boş görünür.
+protokol dışı arşiv için:
+
+  python3 afad_caydanlik.py --arsiv
+
